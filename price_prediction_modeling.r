@@ -1,6 +1,4 @@
-# myrepo
-# testing my setup
-# This is a line from RStudio
+
 rm(list =ls())
 setwd("~/Documents/Kaggle")
 data = read.csv('analysisData.csv')
